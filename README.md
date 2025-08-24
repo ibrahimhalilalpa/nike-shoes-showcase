@@ -1,4 +1,6 @@
 # Nike Shoes Showcase
+<img width="385" height="807" alt="image" src="https://github.com/user-attachments/assets/bde11eef-b0f7-4522-b841-145d823c426d" />
+
 
 React + TypeScript + Tailwind kullanılarak geliştirilmiş **Nike ayakkabı vitrin uygulaması**.  
 Kullanıcılar farklı modelleri **yatay kaydırma (scroll)** ile gezebilir, fiyat ve model bilgilerini görebilir.
